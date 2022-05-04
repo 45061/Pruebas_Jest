@@ -1,0 +1,14 @@
+{
+  "name": "robot",
+  "version": "1.0.0",
+  "description": "Este es un Robot",
+  "main": "robot.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
